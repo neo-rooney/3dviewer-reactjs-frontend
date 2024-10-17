@@ -1,0 +1,6 @@
+.container {
+  width: 328px;
+  height: 328px;
+  border-radius: 8px;
+  border: 1px solid var(--Components-Paper-Outlined, rgba(145, 158, 171, 0.24));
+}
